@@ -80,7 +80,7 @@ const LoginModal = () => {
   const footerContent = (
     <div className="text-neutral-400 text-center mt-4">
       <p>
-        First time using Twitter?
+        Don't have an account?
         <span
           onClick={onToggle}
           className="

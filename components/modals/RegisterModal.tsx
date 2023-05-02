@@ -142,7 +142,7 @@ const RegisterModal = () => {
       disabled={isLoading}
       isOpen={registerModal.isOpen}
       title="Create an account"
-      actionLabel="Register"
+      actionLabel="Sign Up"
       onClose={registerModal.onClose}
       onSubmit={onSubmit}
       body={bodyContent}
